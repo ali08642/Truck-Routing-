@@ -1,0 +1,6 @@
+{
+  "name": "Weather-Aware Truck Routing",
+  "description": "Logistics dispatch and route weather risk analysis dashboard for commercial trucks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
